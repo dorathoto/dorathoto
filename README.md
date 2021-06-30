@@ -13,9 +13,6 @@ Brasiliano, nipote di italiano, nato in 1981 (secolo scorso), sviluppatore dal 1
 Appassionato di tecnologia, sua moglie e sua figlia 😄.
 
 
-https://github-readme-stats.vercel.app/api?username=dorathoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
-
-
 
 ## Github Status ⚡
 
