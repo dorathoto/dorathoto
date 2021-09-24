@@ -10,7 +10,7 @@ Apaixonado por tecnologia e a esposa 😄.
 ## chi sono?
 
 Brasiliano, nipote di italiano, nato in 1981 (secolo scorso), sviluppatore dal 1996, programmatore (sviluppatore) professionalmente dal 2000, sposato, padre di due principessas. Studente di ingegneria, genealogia, tecnologia..lol
-Appassionato di tecnologia e moglie.
+Appassionato di tecnologia.
 
 
 
