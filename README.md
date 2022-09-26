@@ -2,14 +2,14 @@
 # Quem sou eu?
 *it:descrizione in italiano alla fine*
 
-Brasileiro, nascido em 1981 (séc. passado), desenvolvedor desde 1996, vivendo disso profissionalmente desde 2000, casado, pai de duas princesas.
+Brasileiro, nascido em 1981 (séc. passado), desenvolvedor desde 1996, Eng. da computação,  vivendo disso profissionalmente desde 2000, casado, pai de duas princesas.
 Apaixonado por tecnologia e a esposa 😄.
 
 
 
 ## chi sono?
 
-Brasiliano, nipote di italiano, nato in 1981 (secolo scorso), sviluppatore dal 1996, programmatore (sviluppatore) professionalmente dal 2000, sposato, padre di due principessas. Studente di ingegneria, genealogia, tecnologia..lol
+Brasiliano, nipote di italiano, nato in 1981 (secolo scorso), sviluppatore professionalmente dal 2000, laureato in ingegneria informatica, elettronica e software, sposato, padre di due principessas. Studente di genealogia, tecnologia..lol
 Appassionato di tecnologia.
 
 
