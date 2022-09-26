@@ -27,4 +27,3 @@ Appassionato di tecnologia.
 [![Medium](https://img.shields.io/badge/-05122A?logo=medium)](https://medium.com/@leonardostorollidorathoto)
 [![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/leonardo-dorathoto-53529321/)
 [![Facebook](https://img.shields.io/badge/-05122A?logo=facebook&logoColor=white)](https://facebook.com/dorathoto)
-[![StackOverflow](https://img.shields.io/badge/-05122A?logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/5905/dorathoto)
