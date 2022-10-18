@@ -2,7 +2,7 @@
 # Quem sou eu?
 *it:descrizione in italiano alla fine*
 
-Brasileiro, nascido em 1981 (séc. passado), desenvolvedor desde 1996, Eng. da computação,  vivendo disso profissionalmente desde 2000, casado, pai de duas princesas.
+Brasileiro, nascido em 1981 (séc. passado), desenvolvedor desde 1996, Eng. da computação, filiado ao CREA/SP,  vivendo disso profissionalmente desde 2000, casado, pai de duas princesas.
 Apaixonado por tecnologia e a esposa 😄.
 
 
