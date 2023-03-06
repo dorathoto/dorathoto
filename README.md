@@ -25,5 +25,5 @@ Appassionato di tecnologia.
 ## Find me 🔍
 
 [![Medium](https://img.shields.io/badge/-05122A?logo=medium)](https://medium.com/@leonardostorollidorathoto)
-[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/leonardo-dorathoto-53529321/)
+[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/leonardo-dorathoto/)
 [![Facebook](https://img.shields.io/badge/-05122A?logo=facebook&logoColor=white)](https://facebook.com/dorathoto)
