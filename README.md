@@ -9,7 +9,7 @@ Apaixonado por tecnologia e a esposa 😄.
 
 ## chi sono?
 
-Brasiliano, nipote di italiano, nato in 1981 (secolo scorso), sviluppatore professionalmente dal 2000, laureato in ingegneria informatica, elettronica e software, sposato, padre di due principessas. Studente di genealogia, tecnologia..lol
+Brasiliano, nipote di italiano con cittadinanza italiana, nato in 1981 (secolo scorso), sviluppatore professionalmente dal 2000, laureato in ingegneria informatica, elettronica e software,MBA in Project Management e MBA nell'insegnamento dell'istruzione superiore, sposato, padre di due principessas. Studente di genealogia, tecnologia..lol
 Appassionato di tecnologia.
 
 
