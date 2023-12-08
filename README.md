@@ -2,14 +2,14 @@
 # Quem sou eu?
 *it:descrizione in italiano alla fine*
 
-Brasileiro, nascido em 1981 (séc. passado), desenvolvedor desde 1996, Eng. da computação, filiado ao CREA/SP e pós graduado USP, vivendo disso profissionalmente desde 2000, casado, pai de duas princesas.
+Brasileiro, nascido em 1981 (séc. passado), desenvolvedor desde 1996, Eng. da computação, filiado ao CREA/SP e pós graduado na USP e PUC, vivendo disso profissionalmente desde 2000, casado, pai de duas princesas.
 Apaixonado por tecnologia e a esposa 😄.
 
 
 
 ## chi sono?
 
-Brasiliano, nipote di italiano con cittadinanza italiana, nato in 1981 (secolo scorso), sviluppatore professionalmente dal 2000, laureato in ingegneria informatica, elettronica e software,MBA in Project Management e MBA nell'insegnamento dell'istruzione superiore, sposato, padre di due principessas. Studente di genealogia, tecnologia..lol
+Brasiliano, nipote di italiano con cittadinanza italiana, nato in 1981 (secolo scorso), sviluppatore professionalmente dal 2000, laureato in ingegneria informatica, elettronica e software,MBA in Project Management , MBA nell'insegnamento dell'istruzione superiore, MBA AI, sposato, padre di due principessas. Studente di genealogia, tecnologia..lol
 Appassionato di tecnologia.
 
 
