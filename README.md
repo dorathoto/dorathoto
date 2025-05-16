@@ -46,7 +46,8 @@ I am committed to continuous learning and applying cutting-edge technology to re
 
 
 ## Find me 🔍
+https://www.linkedin.com/in/doratiotto/
 
 [![Medium](https://img.shields.io/badge/-05122A?logo=medium)](https://medium.com/@leonardostorollidorathoto)
-[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/leonardo-dorathoto/)
+[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/doratiotto/)
 [![Facebook](https://img.shields.io/badge/-05122A?logo=facebook&logoColor=white)](https://facebook.com/dorathoto)
