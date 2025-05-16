@@ -30,9 +30,8 @@ Highly experienced Computer Engineer and software developer with a robust track 
 
 * Software Architecture & Development (C#, Python)
 * Artificial Intelligence & Machine Learning
-* Cloud Platforms (e.g., Azure)
-* [Adicionar outras 2-3 áreas chave, ex: Big Data, Project Management, etc.]
-
+* Cloud Platforms (e.g., Azure), Big Data, PMO,
+* 
 I am committed to continuous learning and applying cutting-edge technology to real-world problems.
 
 
